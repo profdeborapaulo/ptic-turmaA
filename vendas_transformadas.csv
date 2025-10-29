@@ -1,0 +1,5 @@
+data_venda,produto,quantidade,preco_unitario,preco_com_imposto,mes_venda
+2025-01-10,Notebook,2,3500,3850.0000000000005,1
+2025-01-11,Mouse,5,80,88.0,1
+2025-01-12,Monitor,1,1200,1320.0,1
+2025-01-13,Teclado,3,150,165.0,1
